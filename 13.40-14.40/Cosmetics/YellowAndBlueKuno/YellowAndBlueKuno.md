@@ -1,0 +1,1 @@
+Swaps Kuno with Yellow and Blue Kuno
