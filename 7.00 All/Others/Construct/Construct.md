@@ -1,0 +1,19 @@
+Open the map with the command open /Game/Crow/Construct/Maps/gm_construct
+
+WID_BruteSpawner
+WID_FiendSpawner
+WID_FlingerSpawner
+WID_Husk_Digger
+WID_Husk_Dwarf
+WID_Husk_Pitcher
+WID_Husk_Sploder
+WID_Husk_Zapper
+WID_HuskBeehive_Spawner
+WID_HuskBombshell_Spawner
+WID_HuskSpawner
+WID_Husky_RiotShield
+WID_HuskySpawner
+WID_ShielderSpawner
+WID_SmasherSpawner
+WID_StormKingSpawner
+WID_TakerSpawner
