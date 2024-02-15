@@ -1,0 +1,1 @@
+BETTER LOBBY-ONLY CONSOLE. (use this if pakchunkMobileConsole doesn't fit in your screen) (this one fits in all screens and doesn't make the login screen and locker black)
