@@ -1,0 +1,10 @@
+{
+    "id":"Thermal_AR",
+    "name":"Super Thermal Assault Rifle",
+    "author":"Noffie",
+    "description":"Replaces the Legendary Thermal AR With an Electric Thermal AR from Noffie. INC",
+    "version":"1.0.0",
+    "paks": [
+        "pakchunkThermalRifle-WindowsClient.pak"
+    ]
+}

@@ -1,0 +1,1 @@
+Valkyrie from Apex Legends, replaces Default Ramirez (couldn't get jetpack to work properly without removing it)

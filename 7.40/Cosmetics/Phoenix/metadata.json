@@ -1,0 +1,10 @@
+{
+    "id":"Phoenix-Swap",
+    "name":"Phoenix",
+    "author":"shady",
+    "description":"A mod that replaces the default Rift skin with Phoenix from VALORANT.",
+    "version":"7.40",
+    "paks": [
+        "pakchunkPhoenix-WindowsClient.pak"
+    ]
+}

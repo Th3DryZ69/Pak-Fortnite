@@ -1,0 +1,11 @@
+{
+    "id": "valk-apex",
+    "name": "Valkyrie",
+    "author": "Skelmoor",
+    "description": "Replaces Default Ramirez with Valkyrie from Apex Legends",
+    "version": "7.40",
+    "map": "",
+    "paks": [
+        "pakchunkValkyrie-WindowsClient.pak"
+    ]
+}
