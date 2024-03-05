@@ -1,0 +1,12 @@
+{
+    "id": "Retail_Lodge",
+    "name": "Retail Lodge",
+    "author": "Noffie",
+    "description": "Replaces Retail Row with Lonely Lodge",
+    "version": "1.2.0",
+    "map": "Athena_Terrain",
+    "streamMap": false,
+    "paks": [
+        "pakchunkCityWoods-WindowsClient.pak"
+    ]
+}
