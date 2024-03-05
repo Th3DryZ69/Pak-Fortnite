@@ -1,0 +1,12 @@
+{
+    "id": "dust2",
+    "name": "Dust 2",
+    "author": "shady",
+    "description": "A first-person recreation of Dust 2 from Counter-Strike 1.6 (Note: Takes around 30-45 seconds to load. Only works on 7.40)",
+    "version": "1.0.0",
+    "map": "Dust",
+    "streamMap": true,
+    "paks": [
+        "pakchunkDust-WindowsClient.pak"
+    ]
+}

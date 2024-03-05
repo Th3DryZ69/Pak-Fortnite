@@ -1,0 +1,11 @@
+{
+    "id": "oct-apex",
+    "name": "Octane",
+    "author": "Skelmoor",
+    "description": "Replaces Default Ramirez with Octane from Apex Legends",
+    "version": "7.40",
+    "map": "",
+    "paks": [
+        "pakchunkOctane-WindowsClient.pak"
+    ]
+}

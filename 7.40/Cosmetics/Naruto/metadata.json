@@ -1,0 +1,12 @@
+{
+    "id": "naruto-mod",
+    "name": "Naruto",
+    "author": "Zylox#0706",
+    "description": "Ramirez to Naruto",
+    "version": "1.0.0",
+    "map": "Athena_Terrain",
+    "streamMap": false,
+    "paks": [
+        "pakchunkNaruto-WindowsClient.pak"
+    ]
+}
