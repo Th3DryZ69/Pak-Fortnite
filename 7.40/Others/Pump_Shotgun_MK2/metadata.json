@@ -1,0 +1,10 @@
+{
+    "id":"M_K_2",
+    "name":"Pump Shotgun MK2",
+    "author":"Noffie",
+    "description":"The same pump, different look.",
+    "version":"ersion sex",
+    "paks": [
+        "pakchunkMk2-WindowsClient.pak"
+    ]
+}

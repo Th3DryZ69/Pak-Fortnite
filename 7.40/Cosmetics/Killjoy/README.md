@@ -1,0 +1,1 @@
+Killjoy from Valorant, replaces the default Rift skin

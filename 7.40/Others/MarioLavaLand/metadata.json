@@ -1,0 +1,10 @@
+{
+  "id": "Mario_Lava",
+  "name": "LavaLand64",
+  "author": "Spooks",
+  "description": "LavaLand Mario 64 map remake With Double Jump Enjoy :) If you Experience any Crashes It is normal and not a pak issue sadly it is out of my control i apologize for any inconvenience",
+  "version": "1.0.0",
+  "paks": [
+    "pakchunkLavaLand-WindowsClient.pak"
+  ]
+}

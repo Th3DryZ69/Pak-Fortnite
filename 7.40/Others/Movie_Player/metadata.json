@@ -1,0 +1,11 @@
+{
+    "id": "Movie Player in Fortnite",
+    "name": "Movie Player",
+    "author": "Gěo",
+    "description": "Play Video Files in Fortnite Command: streammap /game/athena/maps/TVLevel",
+    "version": "2.0",
+    "map": "/game/athena/maps/TVLevel",
+    "paks": [
+        "pakchunkFirstMap-WindowsClient.pak"
+    ]
+}

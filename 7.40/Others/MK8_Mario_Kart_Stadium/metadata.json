@@ -1,0 +1,12 @@
+{
+    "id": "Circuit",
+    "name": "MK8 Mario Circuit Stadium",
+    "author": "Jokiller230",
+    "description": "Mariokart 8 Circuit Stadium map ported to Fortnite! (streammap /Game/JoMaps/Circuit)",
+    "version": "1.0.0",
+    "map": "Game/JoMaps/Circuit",
+    "streamMap": false,
+    "paks": [
+        "pakchunkCircuit-WindowsClient.pak"
+    ]
+}

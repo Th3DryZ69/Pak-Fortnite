@@ -1,0 +1,12 @@
+{
+    "id": "WuhuIsland",
+    "name": "Wuhu Island",
+    "author": "Jokiller230",
+    "description": "Wuhu Island in Fortnite with background music and vehicle spawning! (streammap /Game/JoMaps/WuhuIslandResort)",
+    "version": "1.0.0",
+    "map": "Game/JoMaps/WuhuIslandResort",
+    "streamMap": false,
+    "paks": [
+        "pakchunkWuhuIslandNoWater-WindowsClient.pak"
+    ]
+}

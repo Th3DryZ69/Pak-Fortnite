@@ -1,0 +1,1 @@
+:blue_rift: Wuhu Island in Fortnite! Includes background music and vehicle spawns (8 = Driftboard / 9 = Plane) :blue_rift: [7.40] 

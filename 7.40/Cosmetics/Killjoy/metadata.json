@@ -1,0 +1,10 @@
+{
+    "id": "killjoy_valorant",
+    "name": "Killjoy",
+    "author": "penguin",
+    "description": "replaces the default Rift skin with Killjoy from Valorant",
+    "version": "1.00",
+    "paks": [
+        "pakchunkKilljoyDefault-WindowsClient.pak"
+    ]
+}

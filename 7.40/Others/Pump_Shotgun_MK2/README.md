@@ -1,0 +1,1 @@
+Pump Shotgun MK2 (WID_Shotgun_Standard_Athena_UC_Ore_T03) (7.40)
