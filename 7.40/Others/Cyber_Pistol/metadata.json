@@ -1,0 +1,10 @@
+{
+    "id":"Cyber Pistol",
+    "name":"Cyber Pistol",
+    "author":"Noffie",
+    "description":"A custom pistol with a low firerate and high damage",
+    "version":"oted by you guys!",
+    "paks": [
+        "pakchunkVote1-WindowsClient.pak"
+    ]
+}
