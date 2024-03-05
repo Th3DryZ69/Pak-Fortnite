@@ -1,0 +1,1 @@
+Dual Pump Shotguns (WID_DualPistol_SemiAuto_Athena_VR_Ore_T03) (7.40)

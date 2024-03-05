@@ -1,0 +1,1 @@
+Mario Kart DS: Mario Circuit (Version 7.40) (Command: streammap /Game/map/map)

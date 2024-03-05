@@ -1,0 +1,1 @@
+Meant for 7.40, (cheatscript spawnitem WID_Edged_Sword_Medium_R_Crystal_T04)

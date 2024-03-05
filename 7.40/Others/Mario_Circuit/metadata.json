@@ -1,0 +1,12 @@
+{
+    "id": "mario-circuit",
+    "name": "Mario Kart DS: Mario Circuit",
+    "author": "Rift#9292",
+    "description": "Play Mario Circuit (DS) in Fortnite! Requires: 7.40 Command: streammap /Game/map/map",
+    "version": "1.0.0",
+    "map": "map",
+    "streamMap": true,
+    "paks": [
+        "pakchunkcastle-WindowsClient.pak"
+    ]
+}

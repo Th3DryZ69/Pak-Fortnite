@@ -1,0 +1,12 @@
+{
+    "id": "Jet-Battle-Bus",
+    "name": "Jet Battle Bus",
+    "author": "Noffie",
+    "description": "Changes the battle bus to a jet",
+    "version": "1.0.0",
+    "map": "Athena_Terrain",
+    "streamMap": false,
+    "paks": [
+        "pakchunkBB-WindowsClient.pak"
+    ]
+}

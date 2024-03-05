@@ -1,0 +1,12 @@
+{
+    "id": "Double-Pump-Shotgun",
+    "name": "Dual Pump Shotguns",
+    "author": "Noffie (Idea by Susan Hefley#6706)",
+    "description": "Replaces the rare dual pistols with dual pump shotguns (WID_DualPistol_SemiAuto_Athena_VR_Ore_T03)",
+    "version": "1.0.0",
+    "map": "Athena_Terrain",
+    "streamMap": false,
+    "paks": [
+        "pakchunkDPSG-WindowsClient.pak"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "Diamond Sword",
+    "name": "Diamond Sword (7.40)",
+    "author": "Noffie (Mineluke for the idea)",
+    "description": "cheatscript spawnitem WID_Edged_Sword_Medium_R_Crystal_T04",
+    "version": "1.0.0",
+    "map": "Athena_Terrain",
+    "streamMap": false,
+    "paks": [
+        "pakchunkDiamondSword-WindowsClient.pak"
+    ]
+}

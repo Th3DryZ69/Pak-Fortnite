@@ -1,0 +1,1 @@
+streammap /Game/map/map

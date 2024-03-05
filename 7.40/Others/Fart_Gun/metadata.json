@@ -1,0 +1,10 @@
+{
+    "id":"Fart_Gun",
+    "name":"Fart Gun (7.40)",
+    "author":"Noffie, Allyjax (Knockback), Spooky (Particles).",
+    "description":"Winner of Noffie's third item vote! (cheatscript spawnitem WID_Shotgun_BreakBarrel_Athena_SR_Ore_T03)",
+    "version":"oted by you guys!",
+    "paks": [
+        "pakchunkMk2-WindowsClient.pak"
+    ]
+}

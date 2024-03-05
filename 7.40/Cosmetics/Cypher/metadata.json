@@ -1,0 +1,10 @@
+{
+    "id":"Cypher-Swap",
+    "name":"Cypher",
+    "author":"shady",
+    "description":"A mod that replaces the default Rift skin with Cypher from VALORANT.",
+    "version":"7.40",
+    "paks": [
+        "pakchunkCypher-WindowsClient.pak"
+    ]
+}
