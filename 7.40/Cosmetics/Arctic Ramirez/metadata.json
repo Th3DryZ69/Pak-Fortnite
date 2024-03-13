@@ -1,0 +1,12 @@
+{
+    "id": "Arctic-Ramirez",
+    "name": "Arctic Ramirez",
+    "author": "Archie#5396",
+    "description": "Ramirez But Cold ",
+    "version": "7.40",
+    "map": "Athena_Terrain",
+    "streamMap": false,
+    "paks": [
+        "pakchunk121-WindowsClient.pak"
+    ]
+}

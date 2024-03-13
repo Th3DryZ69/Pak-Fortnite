@@ -1,0 +1,2 @@
+Working Kit's Shockwave Launcher (Shockwave projectile is kinda scuffed) with proper textures (thanks to CallyHam for the texture porting.) 
+cheatscript spawnitem WID_Launcher_Grenade_Athena_SR_Ore_T03

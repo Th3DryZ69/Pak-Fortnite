@@ -1,0 +1,12 @@
+{
+    "id": "Coco-nut",
+    "name": "Coconut malled",
+    "author": "you",
+    "description": "streammap /Game/map/map",
+    "version": "7.40",
+    "map": "Athena_Terrain",
+    "streamMap": false,
+    "paks": [
+        "pakchunk121-WindowsClient.pak"
+    ]
+}

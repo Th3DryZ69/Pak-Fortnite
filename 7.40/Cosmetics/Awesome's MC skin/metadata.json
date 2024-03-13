@@ -1,0 +1,12 @@
+{
+    "id": "mcskin-mod",
+    "name": "Awesomes's MC Skin",
+    "author": "Awesomebossdj7",
+    "description": "Crappy Textures LOL",
+    "version": "7.40",
+    "map": "",
+    "streamMap": false,
+    "paks": [
+        "pakchunkMCSkin-WindowsClient.pak"
+    ]
+}

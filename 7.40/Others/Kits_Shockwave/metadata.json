@@ -1,0 +1,12 @@
+{
+    "id": "kit-shockwave",
+    "name": "Kit's Shockwave Launcher",
+    "author": "CallyHam & Nuheo",
+    "description": "Replaces Legendary Grenade Launcher With Functional Kits Shockwave Launcher (7.40 Only) command: cheatscript spawnitem WID_Launcher_Grenade_Athena_SR_Ore_T03",
+    "version": "1.0.0",
+    "map": "Athena_Terrain",
+    "streamMap": false,
+    "paks": [
+        "pakchunkKitsShockwaveLauncher-WindowsClient.pak"
+    ]
+}
