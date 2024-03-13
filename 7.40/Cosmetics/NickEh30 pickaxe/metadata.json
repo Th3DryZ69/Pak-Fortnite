@@ -1,0 +1,12 @@
+{
+    "id": "Nick-eh-30",
+    "name": "NickEh30 Pickaxe",
+    "author": "Archie#5396",
+    "description": "The Funny Man",
+    "version": "7.40",
+    "map": "Athena_Terrain",
+    "streamMap": false,
+    "paks": [
+        "pakchunk122-WindowsClient.pak"
+    ]
+}

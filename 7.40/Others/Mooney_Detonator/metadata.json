@@ -1,0 +1,10 @@
+{
+    "id": "mooney_detonator",
+    "name": "Mooney Detonator",
+    "author": "wooby",
+    "description": "Used to start the 7.20 event since Rift doesn't support it. 'cheatscript giveitem WeaponData_EventDetonator'",
+    "version": "7.20",
+    "paks": [
+        "pakchunk720-WindowsClient.pak"
+    ]
+}

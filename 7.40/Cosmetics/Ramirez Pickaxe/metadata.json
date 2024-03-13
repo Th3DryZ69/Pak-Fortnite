@@ -1,0 +1,12 @@
+{
+    "id": "Ramirez-Pickaxe",
+    "name": "Ramirez Pickaxe",
+    "author": "Noffie",
+    "description": "Replaces Default Pickaxe With Ramirez",
+    "version": "1.0.0",
+    "map": "Athena_Terrain",
+    "streamMap": false,
+    "paks": [
+        "pakchunkROAS-WindowsClient.pak"
+    ]
+}

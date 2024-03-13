@@ -1,0 +1,12 @@
+{
+    "id": "new-stop-axe",
+    "name": "\"Improved\" Stop Axe",
+    "author": "krisp",
+    "description": "cheatscript giveitem WID_Edged_Axe_Heavy_C_Ore_T01",
+    "version": "7.10 to 8.00",
+    "map": "",
+    "streamMap": false,
+    "paks": [
+        "NewStopAxe.pak"
+    ]
+}

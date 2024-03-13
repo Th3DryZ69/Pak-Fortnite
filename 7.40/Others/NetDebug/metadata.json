@@ -1,0 +1,10 @@
+{
+    "id":"netdebug",
+    "name":"No Net Debug",
+    "author":"penguin",
+    "description":"Removes the Net Debug UI",
+    "version":"1.0.0",
+    "paks": [
+        "pakchunkNetDebug-WindowsClient.pak"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "Penguin-cool",
+    "name": "a pickaxe for penguin#7541",
+    "author": "Archie#5396",
+    "description": "hes cool",
+    "version": "7.40",
+    "map": "Athena_Terrain",
+    "streamMap": false,
+    "paks": [
+        "pakchunk123-WindowsClient.pak"
+    ]
+}

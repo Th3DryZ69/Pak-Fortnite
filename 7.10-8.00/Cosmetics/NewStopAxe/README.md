@@ -1,0 +1,1 @@
+cheatscript giveitem WID_Edged_Axe_Heavy_C_Ore_T01

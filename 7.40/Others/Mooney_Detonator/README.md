@@ -1,0 +1,1 @@
+Used to start the 7.20 event since Rift doesn't support it. `cheatscript giveitem WeaponData_EventDetonator`
