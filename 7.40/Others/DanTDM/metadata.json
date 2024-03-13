@@ -1,0 +1,12 @@
+{
+  "id": "DanTDM",
+  "name": "DanTDM's Lab",
+  "author": "HxD",
+  "description": "DanTDM's Old Lab! Idea by Mineluke and Rhys. Created by HxD! Type streammap /game/game/map when you load!",
+  "version": "1.0.0",
+  "map": "/game/map/map",
+  "streamMap": true,
+  "paks": [
+    "DanTDM.pak"
+  ]
+}
