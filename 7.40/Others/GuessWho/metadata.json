@@ -1,0 +1,12 @@
+{
+    "id": "guess-who",
+    "name": "Guess the Outfit Map",
+    "author": "krisp",
+    "description": "open /game/krisp/maps/gussthecharacter/guess?game=/game/athena/athena_gamemode.athena_gamemode_c",
+    "version": "7.40",
+    "map": "",
+    "streamMap": false,
+    "paks": [
+        "GuessWho.pak"
+    ]
+}
