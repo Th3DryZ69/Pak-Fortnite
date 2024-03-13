@@ -1,0 +1,11 @@
+{
+    "id": "athena_speedway",
+    "name": "Noffies Mods",
+    "author": "Noffie",
+    "description": "All the mods Noffie has made all in one big collection",
+    "version": "1.0.0",
+    "map": "/Game/Custom/Athena_Speedway",
+    "paks": [
+        "pakchunkBoom!-WindowsClient, pakchunkCombatAR-WindowsClient, pakchunkCombatSMG-WindowsClient, pakchunkMythicAr-WindowsClient"
+    ]
+}

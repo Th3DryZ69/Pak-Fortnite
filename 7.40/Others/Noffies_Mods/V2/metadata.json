@@ -1,0 +1,11 @@
+{
+    "id": "Noffies_Mods",
+    "name": "Noffies Mods",
+    "author": "Noffie",
+    "description": "All the mods Noffie has made all in one big collection",
+    "version": "2.0.0",
+    "map": "athena_terrain",
+    "paks": [
+        "pakchunkNoffies-WindowsClient.pak"
+    ]
+}

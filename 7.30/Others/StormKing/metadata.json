@@ -1,0 +1,10 @@
+{
+    "id":"StormKing",
+    "name":"Storm King",
+    "author":"Spooks",
+    "description":"Storm King",
+    "version":"1.0.0",
+    "paks": [
+        "pakchunk-10069-WindowsClient.pak"
+    ]
+}
