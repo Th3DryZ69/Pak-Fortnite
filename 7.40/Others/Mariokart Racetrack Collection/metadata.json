@@ -1,0 +1,16 @@
+{
+    "id": "Diamond Sword",
+    "name": "Mariokart Collection (7.40)",
+    "author": "Jokiller230",
+    "description": "a collection of Mariokart Racetracks! [DKJungle: streammap /Game/JoMaps/DKJungle] [Mariokart Stadium: streammap /Game/JoMaps/Circuit] [Luigis MansionDS: streammap /Game/JoMaps/Mansion] [MK7 DS Airship: streammap /Game/JoMaps/AirshipFortress] [Animal Crossing Autumn: streammap /Game/JoMaps/AnimalCrossingAutumn] ",
+    "version": "1.0.0",
+    "map": "Athena_Terrain",
+    "streamMap": false,
+    "paks": [
+        "pakchunkCircuit-WindowsClient.pak",
+        "pakchunkDKJungle-WindowsClient.pak",
+        "pakchunkMansionLuigi-WindowsClient.pak",
+        "pakchunkAnimalCrossingAutumn-WindowsClient.pak",
+        "pakchunkFortressDS-WindowsClient.pak"
+    ]
+}
