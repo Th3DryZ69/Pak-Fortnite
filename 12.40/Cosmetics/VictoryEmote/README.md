@@ -1,0 +1,5 @@
+id:
+EID_Undead_Victory
+EID_Outburst_Victory
+EID_Metronome_Victory
+EID_Deceiver_Victory
